@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a project that has been a learning experience utilizing frameworks such as React and tailwindCSS to create a useful study application for a future exam. I have strengthened skills such as data management and concepts such as data driven UIs.  
+
 ## Available Scripts
 
 In the project directory, you can run:
